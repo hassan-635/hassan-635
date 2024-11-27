@@ -25,7 +25,7 @@ I am a Computer Science Student from Pakistan 🇵🇰 having major interests in
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Ubuntu" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### Connect with me at ...
+### Connect with me ...
 
 <a href="https://pk.linkedin.com/in/hassan-ali-abrar-3157412a9" title="Hassan Ali Abrar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hassan.ali.635/" title="Hassan Ali Abrar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
