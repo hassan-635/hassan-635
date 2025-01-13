@@ -29,6 +29,5 @@ I am a Computer Science Student from Pakistan 🇵🇰 having major interests in
 
 <a href="https://pk.linkedin.com/in/hassan-ali-abrar-3157412a9" title="Hassan Ali Abrar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hassan.ali.635/" title="Hassan Ali Abrar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
-<a href="https://www.tiktok.com/@hassan4hac_king" target="_blank" title="hassan4hac_king" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-E69O6eq4oux769NfN2vbSmGLej0o4bM0Lw&s" alt="tiktok" width="30" height="30"/></a>
 <a href="mailto:hassanaliabrar4@gmail.com" target="_blank" title="hassanaliabrar4@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
