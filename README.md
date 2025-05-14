@@ -4,7 +4,6 @@ I am a Computer Science Student from Pakistan 🇵🇰 having major interests in
 
 ### Currently I am working with ...
 
-<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Python" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Cisco Packet Tracer" target="_blank" rel="noreferrer"><img src="https://poggu.me/uploads/default/original/1X/d373f12185cba8262a3a850aa850485de5a6e1e3.png" alt="Cisco Packet Tracer" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="VMWare Workstation" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png" alt="vmware" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -14,15 +13,17 @@ I am a Computer Science Student from Pakistan 🇵🇰 having major interests in
 <a href="" title="Tails OS" target="_blank" rel="noreferrer"><img src="https://img.utdstc.com/icon/d0a/6ba/d0a6ba1ded5e15b36bae3f50a7492c07339b2db8d36d186ee41c8d5179a0c3ee:100" alt="Tails" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### I have also worked with ...
 
+<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="QT C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png" alt="QT Cpp" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="SQLITE" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.4686010750.9566/fposter,small,wall_texture,square_product,600x600.jpg" alt="SQLITE" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Ubuntu" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### Connect with me ...
