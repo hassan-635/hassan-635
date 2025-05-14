@@ -13,7 +13,6 @@ I am a Computer Science Student from Pakistan 🇵🇰 having major interests in
 <a href="" title="Tails OS" target="_blank" rel="noreferrer"><img src="https://img.utdstc.com/icon/d0a/6ba/d0a6ba1ded5e15b36bae3f50a7492c07339b2db8d36d186ee41c8d5179a0c3ee:100" alt="Tails" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
 
