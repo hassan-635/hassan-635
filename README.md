@@ -14,7 +14,6 @@ I am a Computer Science Student from Pakistan 🇵🇰 having major interests in
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Android Studio" rel="noreferrer"><img src="[https://www.vectorlogo.zone/logos/mysql/mysql-official.svg](https://commons.wikipedia.org/wiki/File:Android_Studio_Logo_2024.svg)" alt="Android Studio" width="60" height="30"/></a>&nbsp;&nbsp;
 
 ### I also have experience in ...
 
