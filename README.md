@@ -15,42 +15,9 @@
 ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=🔐+PENETRATION+TESTING+EXPERT;🤖+AI+%26+MACHINE+LEARNING+SPECIALIST;⚡+FULL+STACK+DEVELOPER;🛡️+SECURITY+RESEARCHER;💀+ETHICAL+HACKER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=🛡️+Blue+Teaming;🤖+AI+%26+MACHINE+LEARNING+SPECIALIST;⚡+FULL+STACK+DEVELOPER;🛡️+SECURITY+RESEARCHER;)](https://git.io/typing-svg)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## ⚡ SYSTEM BREACH DETECTED ⚡
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🌐 DIGITAL IDENTITY
-
-**█ NAME:** [CLASSIFIED]  
-**█ ROLE:** Cybersecurity AI Engineer  
-**█ MISSION:** Secure The Digital Future  
-**█ STATUS:** `ONLINE & HUNTING` 🎯  
-**█ THREAT LEVEL:** `MAXIMUM` 💀
-
-</td>
-<td align="center" width="50%">
-
-### 🔥 LIVE STATS
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=ff00ff&style=for-the-badge&label=INTRUSIONS)
-
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=00ff00&label=FOLLOWERS&logo=github)
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -59,15 +26,16 @@
 ## 🎯 COMBAT PROTOCOLS ACTIVATED
 
 </div>
+<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  SPECIALIST IN MERGING AI WITH CYBERSECURITY TO CREATE      ║
-║  NEXT-GENERATION SECURE SYSTEMS THAT DEFEND, ADAPT & LEARN  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> **Merging AI and Cybersecurity**  
+> to build secure systems that defend, adapt, and learn.
+
+</div>
 
 <div align="center">
+
+
 
 ### ⚔️ ARSENAL DEPLOYMENT ⚔️
 
@@ -107,28 +75,6 @@
 
 <div align="center">
 
-## 💀 THREAT MATRIX 💀
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&color=ff00ff&line=00ff00&point=ff0000&area=true&hide_border=true" width="100%">
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ff00&text_color=00ffff&bg_color=0d1117&border_color=ff00ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0d1117&border=ff00ff&ring=00ff00&fire=ff0000&currStreakLabel=00ffff" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=0d1117&border_color=ff00ff&langs_count=10" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
 
 ## 🎮 SKILL TREE MAXED OUT 🎮
 
@@ -142,69 +88,12 @@
 
 <img src="https://skillicons.dev/icons?i=linux,bash,powershell,nginx,docker&theme=dark" />
 
-**▸ Penetration Testing**  
-**▸ Vulnerability Assessment**  
-**▸ Network Exploitation**  
-**▸ Security Auditing**  
-**▸ Threat Hunting**  
-**▸ Incident Response**
-
 </td>
 <td align="center" width="50%">
 
 ### ⚡ AI PROTOCOLS
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs&theme=dark" />
-
-**▸ Machine Learning Models**  
-**▸ Neural Networks**  
-**▸ AI Security Systems**  
-**▸ Predictive Analysis**  
-**▸ Intelligent Automation**  
-**▸ Deep Learning**
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## 🚀 MISSION OBJECTIVES 🚀
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 🎯 TARGET_01
-**AI-POWERED SECURITY**
-
-Building intelligent defense systems that learn, adapt, and neutralize threats in real-time
-
-![Security](https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge)
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 TARGET_02
-**ZERO-DAY RESEARCH**
-
-Discovering vulnerabilities before they become weapons in the wrong hands
-
-![Research](https://img.shields.io/badge/STATUS-ONGOING-ffff00?style=for-the-badge)
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 TARGET_03
-**SECURE DEVELOPMENT**
-
-Creating bulletproof applications with security baked into every line of code
-
-![Development](https://img.shields.io/badge/STATUS-DEPLOYED-ff00ff?style=for-the-badge)
 
 </td>
 </tr>
@@ -216,10 +105,10 @@ Creating bulletproof applications with security baked into every line of code
 
 ## 🌐 CONNECT TO THE MAINFRAME 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff00ff)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=00ffff)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white&color=ff0000)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00ff00)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff00ff)](https://linkedin.com/in/hassan-ali-abrar-3157412a9)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00ff00)](mailto:hassanaliabrar4@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hassan.ali.635)
+
 
 </div>
 
@@ -250,7 +139,7 @@ Creating bulletproof applications with security baked into every line of code
 
 ### ⚡ ACHIEVEMENT UNLOCKED ⚡
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hassan-635&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)
 
 </div>
 
@@ -258,13 +147,13 @@ Creating bulletproof applications with security baked into every line of code
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
-
 ### 🔥 SYSTEM STATUS: OPERATIONAL 🔥
 
 ![Made with](https://img.shields.io/badge/MADE_WITH-❤️_AND_💀-ff0000?style=for-the-badge)
-![Powered by](https://img.shields.io/badge/POWERED_BY-CAFFEINE_⚡-00ff00?style=for-the-badge)
 
 </div>
-
+<div align="center">
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
+  
+</div>
