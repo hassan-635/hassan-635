@@ -15,7 +15,7 @@
 ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=🛡️+Blue+Teaming;🤖+AI+%26+MACHINE+LEARNING+SPECIALIST;⚡+FULL+STACK+DEVELOPER;🛡️+SECURITY+RESEARCHER;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=🛡️+Blue+Teaming;🤖FULL+STACK+DEVELOPER+AI+ENGINEER;🛡️+SECURITY+RESEARCHER;)](https://git.io/typing-svg)
 
 </div>
 
