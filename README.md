@@ -133,15 +133,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-### ⚡ ACHIEVEMENT UNLOCKED ⚡
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hassan-635&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
