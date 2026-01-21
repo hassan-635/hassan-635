@@ -125,15 +125,6 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-### 🔥 SYSTEM STATUS: OPERATIONAL 🔥
-
-![Made with](https://img.shields.io/badge/MADE_WITH-❤️_AND_💀-ff0000?style=for-the-badge)
-
-</div>
 <div align="center">
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
