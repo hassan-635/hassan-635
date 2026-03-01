@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CYBER%20SECURITY%20×%20AI&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20The%20Future%20of%20Secure%20Systems&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AI%20SECURITY%20ENGINEER&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20The%20Future%20of%20Secure%20Systems&descSize=20&descAlignY=55)
 
 </div>
 
