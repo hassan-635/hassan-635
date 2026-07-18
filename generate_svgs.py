@@ -129,27 +129,32 @@ def create_banner(output_path, banner_b64, is_light=False):
       <rect x="250" y="3" width="10" height="20" class="cursor"/>
     </g>
 
-    <!-- Name -->
-    <text x="0" y="90" class="text-body" font-size="64" font-weight="800" fill="url(#accent-grad)" letter-spacing="-1">
+    <!-- Name (Neon Cursive) -->
+    <text x="0" y="90" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="80" font-weight="normal" fill="{pink}" filter="url(#glow)" stroke="{purple}" stroke-width="1">
+      Hassan Ali Abrar
+      <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
+    </text>
+    <!-- Sharp core for neon effect -->
+    <text x="0" y="90" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="80" font-weight="normal" fill="#ffffff">
       Hassan Ali Abrar
       <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
     </text>
 
     <!-- Roles -->
-    <g class="text-mono" font-size="24" fill="{text_muted}" transform="translate(0, 140)">
+    <g class="text-mono" font-size="30" fill="{text_muted}" transform="translate(0, 150)">
       <text x="0" y="0" class="role role-1">>> AI Engineer</text>
       <text x="0" y="0" class="role role-2">>> Full Stack Developer</text>
       <text x="0" y="0" class="role role-3">>> Open Source Contributor</text>
     </g>
 
     <!-- Quote Box -->
-    <g transform="translate(0, 180)">
+    <g transform="translate(0, 200)">
       <rect x="0" y="0" width="550" height="50" rx="8" fill="{card_bg}" stroke="{purple}" stroke-width="1" opacity="0.5"/>
       <text x="20" y="32" class="text-body" font-size="20" font-style="italic" fill="{text_muted}">
         "Keep learning. Keep building. Keep growing."
       </text>
       <animate attributeName="opacity" values="0;1" begin="5s" dur="0.8s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" values="0,200; 0,180" begin="5s" dur="0.8s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="0,220; 0,200" begin="5s" dur="0.8s" fill="freeze" />
     </g>
 
     <!-- Code Editor (Left Side) -->
