@@ -20,6 +20,8 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
     <td align="center" width="40%" style="border: none; background-color: transparent;">
+      <h2 align="center">🪪 Identity</h2>
+      <br>
       <img src="lanyard.svg?v=1" alt="ID Badge" width="280">
     </td>
     <td align="center" width="60%" style="border: none; background-color: transparent;">
@@ -47,12 +49,12 @@
 <br><br>
 
 <!-- Dynamic GitHub Stats (Not hardcoded) -->
-<img src="https://github-readme-stats.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b" width="49%">
+<img src="https://github-stats-extended.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b" width="49%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&hide_border=true&background=0d0117&fire=ff2d7b&ring=ff2d7b" width="49%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b" width="49%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b" width="49%">
 
 <br><br>
 
