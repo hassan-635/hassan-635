@@ -13,6 +13,7 @@
 <a href="mailto:hassanaliabrar4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/hassan-ali-abrar-3157412a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/hassan.secure"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.fiverr.com/hassan_4434"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 
 <br><br>
 
@@ -65,12 +66,9 @@
 <h2 align="center">🎯 Area of Interests</h2>
 <div align="center">
   <p align="center" style="font-size: 16px;">
+    <code>🛡️ Cybersecurity</code> &nbsp;
     <code>🤖 Machine Learning</code> &nbsp;
-    <code>🧠 Deep Learning</code> &nbsp;
-    <code>👁️ Computer Vision</code> &nbsp;
-    <code>🗣️ Natural Language Processing</code> &nbsp;
-    <code>⚙️ MLOps</code> &nbsp;
-    <code>🚀 Generative AI</code>
+    <code>🧠 Deep Learning</code>
   </p>
 </div>
 
