@@ -64,12 +64,12 @@
 
 <h2 align="center">⏱️ WakaTime Coding Stats</h2>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hassan-635&layout=compact&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&border_color=a855f7&border_radius=16" width="70%" alt="WakaTime Stats">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hassan-635&layout=compact&theme=dracula&bg_color=282a36&title_color=ff79c6&text_color=ffffff&border_color=bd93f9&border_radius=16" width="70%" alt="WakaTime Stats">
 </div>
 
 <br><br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=hassan-635&color=ff2d7b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=hassan-635&color=ff79c6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
