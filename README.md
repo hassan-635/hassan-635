@@ -53,18 +53,25 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=282a36&fire=ff79c6&ring=bd93f9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=bd93f9&stroke=ff79c6&border_radius=16" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=282a36&fire=ff79c6&ring=bd93f9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=bd93f9&stroke=ff79c6&border_radius=16" width="85%">
   
   <br><br>
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=282a36&title_color=ff79c6&text_color=ffffff&border_color=bd93f9&border_radius=16" width="70%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=282a36&title_color=ff79c6&text_color=ffffff&border_color=bd93f9&border_radius=16&card_width=500" width="85%">
 </div>
 
 <br>
 
-<h2 align="center">⏱️ WakaTime Coding Stats</h2>
+<h2 align="center">🎯 Area of Interests</h2>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hassan-635&layout=compact&theme=dracula&bg_color=282a36&title_color=ff79c6&text_color=ffffff&border_color=bd93f9&border_radius=16" width="70%" alt="WakaTime Stats">
+  <p align="center" style="font-size: 16px;">
+    <code>🤖 Machine Learning</code> &nbsp;
+    <code>🧠 Deep Learning</code> &nbsp;
+    <code>👁️ Computer Vision</code> &nbsp;
+    <code>🗣️ Natural Language Processing</code> &nbsp;
+    <code>⚙️ MLOps</code> &nbsp;
+    <code>🚀 Generative AI</code>
+  </p>
 </div>
 
 <br><br>
