@@ -158,7 +158,7 @@ def create_banner(output_path, banner_b64, is_light=False):
     </g>
 
     <!-- Code Editor (Left Side) -->
-    <g transform="translate(0, 250)">
+    <g transform="translate(0, 280)">
       <rect width="600" height="200" rx="10" fill="{code_bg}" stroke="#333" stroke-width="1"/>
       <!-- Mac Buttons -->
       <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
@@ -193,7 +193,7 @@ def create_banner(output_path, banner_b64, is_light=False):
     </g>
 
     <!-- About Me -->
-    <g transform="translate(0, 470)" class="text-body" font-size="18" fill="{text_muted}">
+    <g transform="translate(0, 500)" class="text-body" font-size="18" fill="{text_muted}">
       <text x="0" y="0">
         <tspan x="0" dy="0" opacity="0">⚡ Turning coffee into intelligent AI solutions.</tspan>
         <tspan x="0" dy="30" opacity="0">🌱 Currently exploring advanced machine learning architectures.</tspan>
