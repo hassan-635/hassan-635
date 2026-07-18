@@ -53,62 +53,15 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&bg_color=0d0117&title_color=ff2d7b&icon_color=a855f7&text_color=ffffff&border_color=a855f7&border_radius=16" width="70%">
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=0d0117&fire=ff2d7b&ring=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7&stroke=ff2d7b&border_radius=16" width="70%">
-  
-  <br><br>
-
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&border_color=a855f7&border_radius=16" width="70%">
-</div>
-
-<br>
-
-<h2 align="center">📈 GitHub Activity Graph</h2>
-
-<!-- Dynamic Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-635&bg_color=0d0117&color=a855f7&line=ff2d7b&point=ffffff&area=true&hide_border=false&radius=16" width="70%">
-</div>
-
-<br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassan-635&theme=radical&no-frame=false&no-bg=true&margin-w=15&title-text-color=ff2d7b&stat-text-color=a855f7" width="80%">
-</div>
-
-<br>
-
-<h2 align="center">🌟 Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/hassan-635/YOUR_REPO_NAME_1">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hassan-635&repo=YOUR_REPO_NAME_1&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&icon_color=a855f7&border_color=a855f7&border_radius=16" width="45%">
-  </a>
-  <a href="https://github.com/hassan-635/YOUR_REPO_NAME_2">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hassan-635&repo=YOUR_REPO_NAME_2&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&icon_color=a855f7&border_color=a855f7&border_radius=16" width="45%">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=0d0117&fire=ff2d7b&ring=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7&stroke=ff2d7b&border_radius=16" height="195" width="49%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&border_color=a855f7&border_radius=16" height="195" width="49%">
 </div>
 
 <br>
 
 <h2 align="center">⏱️ WakaTime Coding Stats</h2>
 <div align="center">
-  <!-- The WakaTime graph will automatically be injected here by the GitHub Action -->
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hassan-635&layout=compact&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&border_color=a855f7&border_radius=16" width="70%" alt="WakaTime Stats">
-</div>
-
-<br>
-
-<h2 align="center">📝 Latest Articles</h2>
-<div align="center">
-  <p align="center">
-    <!-- BLOG-POST-LIST:START -->
-    <i>Coming soon...</i>
-    <!-- BLOG-POST-LIST:END -->
-  </p>
 </div>
 
 <br><br>
