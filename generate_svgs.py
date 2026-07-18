@@ -112,12 +112,34 @@ def create_banner(output_path, banner_b64, is_light=False):
   <circle cx="200" cy="450" r="150" fill="{purple}" opacity="0.1" filter="url(#glow)">
     <animate attributeName="cy" values="450;400;450" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1000" cy="150" r="200" fill="{pink}" opacity="0.1" filter="url(#glow)">
+  <circle cx="1100" cy="150" r="200" fill="{pink}" opacity="0.1" filter="url(#glow)">
     <animate attributeName="r" values="200;220;200" dur="6s" repeatCount="indefinite"/>
   </circle>
+  
+  <!-- Floating Hearts -->
+  <g fill="{pink}" opacity="0.7" filter="url(#glow)">
+    <!-- Heart 1 -->
+    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="translate(1000, 250) scale(1.5)">
+      <animate attributeName="transform" values="translate(1000, 250) scale(1.5); translate(1000, 230) scale(1.6); translate(1000, 250) scale(1.5)" dur="4s" repeatCount="indefinite" />
+    </path>
+    <!-- Heart 2 -->
+    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="translate(300, 550) scale(1.2)">
+      <animate attributeName="transform" values="translate(300, 550) scale(1.2); translate(300, 530) scale(1.3); translate(300, 550) scale(1.2)" dur="5s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Space Invader -->
+  <g fill="{purple}" opacity="0.8" filter="url(#glow)">
+    <path d="M8 0h4v4H8z M32 0h4v4H32z M12 4h4v4H12z M28 4h4v4H28z M8 8h28v4H8z M0 12h8v4H0z M12 12h4v4H12z M28 12h4v4H28z M36 12h8v4H36z M0 16h44v4H0z M0 20h4v4H0z M8 20h28v4H8z M40 20h4v4H40z M0 24h4v4H0z M8 24h4v4H8z M32 24h4v4H32z M40 24h4v4H40z M12 28h8v4H12z M24 28h8v4H24z" transform="translate(700, 200) scale(1.5)">
+      <animate attributeName="transform" values="translate(700, 200) scale(1.5); translate(700, 180) scale(1.5); translate(700, 200) scale(1.5)" dur="3s" repeatCount="indefinite" />
+    </path>
+    <path d="M8 0h4v4H8z M32 0h4v4H32z M12 4h4v4H12z M28 4h4v4H28z M8 8h28v4H8z M0 12h8v4H0z M12 12h4v4H12z M28 12h4v4H28z M36 12h8v4H36z M0 16h44v4H0z M0 20h4v4H0z M8 20h28v4H8z M40 20h4v4H40z M0 24h4v4H0z M8 24h4v4H8z M32 24h4v4H32z M40 24h4v4H40z M12 28h8v4H12z M24 28h8v4H24z" transform="translate(60, 480) scale(1)">
+      <animate attributeName="transform" values="translate(60, 480) scale(1); translate(60, 470) scale(1); translate(60, 480) scale(1)" dur="4s" repeatCount="indefinite" />
+    </path>
+  </g>
 
   <!-- Content Group -->
-  <g transform="translate(50, 70) scale(1.12)">
+  <g transform="translate(50, 70) scale(1.05)">
     
     <!-- Terminal Line -->
     <g class="text-mono" font-weight="bold">
@@ -130,18 +152,24 @@ def create_banner(output_path, banner_b64, is_light=False):
     </g>
 
     <!-- Name (Neon Cursive) -->
-    <text x="0" y="90" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="80" font-weight="normal" fill="{pink}" filter="url(#glow)" stroke="{purple}" stroke-width="1">
-      Hassan Ali Abrar
-      <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
-    </text>
-    <!-- Sharp core for neon effect -->
-    <text x="0" y="90" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="80" font-weight="normal" fill="#ffffff">
-      Hassan Ali Abrar
-      <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
-    </text>
+    <g transform="translate(0, 90)">
+      <text x="0" y="0" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="80" font-weight="normal" fill="{pink}" filter="url(#glow)" stroke="{purple}" stroke-width="1">
+        Hassan Ali Abrar
+        <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
+      </text>
+      <!-- Sharp core for neon effect -->
+      <text x="0" y="0" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="80" font-weight="normal" fill="#ffffff">
+        Hassan Ali Abrar
+        <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
+      </text>
+      <!-- Heart next to name -->
+      <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" fill="{pink}" filter="url(#glow)" transform="translate(510, -50) scale(1.5)">
+        <animate attributeName="opacity" values="0;1" begin="3s" dur="1s" fill="freeze"/>
+      </path>
+    </g>
 
     <!-- Roles -->
-    <g class="text-mono" font-size="30" fill="{text_muted}" transform="translate(0, 150)">
+    <g class="text-mono" font-size="26" fill="{text_muted}" transform="translate(0, 140)">
       <text x="0" y="0" class="role role-1">>> AI Engineer</text>
       <text x="0" y="0" class="role role-2">>> Full Stack Developer</text>
       <text x="0" y="0" class="role role-3">>> Open Source Contributor</text>
@@ -207,18 +235,18 @@ def create_banner(output_path, banner_b64, is_light=False):
   <!-- Right Side - Character, Scanner, Skills -->
   <!-- Image Hologram Clip -->
   <g clip-path="url(#hologram-clip)">
-    <!-- Embed the character image (Larger) -->
-    <image x="720" y="20" width="520" height="520" href="data:image/png;base64,{banner_b64}" preserveAspectRatio="xMidYMid meet" />
+    <!-- Embed the character image (Slightly Smaller to match proportions) -->
+    <image x="760" y="40" width="450" height="450" href="data:image/png;base64,{banner_b64}" preserveAspectRatio="xMidYMid meet" />
   </g>
   
   <!-- Scan line leading the reveal -->
-  <rect x="720" y="20" width="520" height="3" fill="{pink}" filter="url(#glow)" opacity="0">
+  <rect x="760" y="40" width="450" height="3" fill="{pink}" filter="url(#glow)" opacity="0">
     <animate attributeName="opacity" values="0;1;0" begin="3s" dur="2s" />
-    <animate attributeName="y" values="20;520" begin="3s" dur="2s" fill="freeze"/>
+    <animate attributeName="y" values="40;490" begin="3s" dur="2s" fill="freeze"/>
   </rect>
 
   <!-- Skills Under Image -->
-  <g transform="translate(680, 520) scale(1.05)">
+  <g transform="translate(710, 520) scale(1)">
 '''
     
     skills = [
