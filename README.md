@@ -53,14 +53,14 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b&icon_color=a855f7&text_color=ffffff" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&hide_border=true&background=0d0117&fire=ff2d7b&ring=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7" width="49%">
+  <img src="https://github-stats-extended.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&bg_color=0d0117&title_color=ff2d7b&icon_color=a855f7&text_color=ffffff&border_color=a855f7&border_radius=16" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=0d0117&fire=ff2d7b&ring=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7&stroke=ff2d7b&border_radius=16" width="49%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff" width="49%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&border_color=a855f7&border_radius=16" width="49%">
 </div>
 
 <br>
