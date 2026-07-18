@@ -11,7 +11,7 @@ def create_banner(output_path, banner_b64, is_light=False):
     purple = "#7c3aed" if is_light else "#a855f7"
     glow = "rgba(124, 58, 237, 0.2)" if is_light else "rgba(255, 45, 123, 0.4)"
 
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 580" width="100%" height="100%">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 680" width="100%" height="100%">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="{bg}" />
@@ -34,13 +34,13 @@ def create_banner(output_path, banner_b64, is_light=False):
     </filter>
     
     <clipPath id="hologram-clip">
-      <rect x="780" y="0" width="450" height="0">
-        <animate attributeName="height" values="0;400" begin="3s" dur="2s" fill="freeze" />
+      <rect x="700" y="0" width="550" height="0">
+        <animate attributeName="height" values="0;500" begin="3s" dur="2s" fill="freeze" />
       </rect>
     </clipPath>
     
     <clipPath id="banner-clip">
-      <rect width="1280" height="580" rx="16" />
+      <rect width="1280" height="680" rx="16" />
     </clipPath>
   </defs>
 
@@ -106,7 +106,7 @@ def create_banner(output_path, banner_b64, is_light=False):
     
   </style>
 
-  <rect width="1280" height="580" rx="16" fill="url(#bg-grad)" clip-path="url(#banner-clip)"/>
+  <rect width="1280" height="680" rx="16" fill="url(#bg-grad)" clip-path="url(#banner-clip)"/>
 
   <!-- Background Orbs -->
   <circle cx="200" cy="450" r="150" fill="{purple}" opacity="0.1" filter="url(#glow)">
@@ -117,7 +117,7 @@ def create_banner(output_path, banner_b64, is_light=False):
   </circle>
 
   <!-- Content Group -->
-  <g transform="translate(60, 60)">
+  <g transform="translate(50, 70) scale(1.12)">
     
     <!-- Terminal Line -->
     <g class="text-mono" font-weight="bold">
@@ -207,18 +207,18 @@ def create_banner(output_path, banner_b64, is_light=False):
   <!-- Right Side - Character, Scanner, Skills -->
   <!-- Image Hologram Clip -->
   <g clip-path="url(#hologram-clip)">
-    <!-- Embed the character image (Smaller, not overlapping) -->
-    <image x="800" y="10" width="400" height="400" href="data:image/png;base64,{banner_b64}" preserveAspectRatio="xMidYMid meet" />
+    <!-- Embed the character image (Larger) -->
+    <image x="720" y="20" width="520" height="520" href="data:image/png;base64,{banner_b64}" preserveAspectRatio="xMidYMid meet" />
   </g>
   
   <!-- Scan line leading the reveal -->
-  <rect x="800" y="10" width="400" height="3" fill="{pink}" filter="url(#glow)" opacity="0">
+  <rect x="720" y="20" width="520" height="3" fill="{pink}" filter="url(#glow)" opacity="0">
     <animate attributeName="opacity" values="0;1;0" begin="3s" dur="2s" />
-    <animate attributeName="y" values="10;410" begin="3s" dur="2s" fill="freeze"/>
+    <animate attributeName="y" values="20;520" begin="3s" dur="2s" fill="freeze"/>
   </rect>
 
   <!-- Skills Under Image -->
-  <g transform="translate(730, 420)">
+  <g transform="translate(680, 520) scale(1.05)">
 '''
     
     skills = [
@@ -257,14 +257,14 @@ def create_banner(output_path, banner_b64, is_light=False):
   
   <!-- Continuous Scanner -->
   <rect x="0" y="-10" width="1280" height="4" fill="url(#accent-grad)" filter="url(#glow)" opacity="0.6">
-    <animate attributeName="y" values="-10;590" begin="5s" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="y" values="-10;690" begin="5s" dur="3.5s" repeatCount="indefinite" />
   </rect>
 
   <!-- Particles and Sparkles Overlay (Subtle) -->
   <g fill="{pink}" opacity="0.5">
     <circle cx="850" cy="200" r="3"><animate attributeName="cy" values="200;150;200" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="1100" cy="600" r="2"><animate attributeName="cy" values="600;550;600" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="900" cy="500" r="4" fill="{purple}"><animate attributeName="cy" values="500;430;500" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="650" r="2"><animate attributeName="cy" values="650;600;650" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="550" r="4" fill="{purple}"><animate attributeName="cy" values="550;480;550" dur="5s" repeatCount="indefinite"/></circle>
   </g>
 </svg>
 '''
