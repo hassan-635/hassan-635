@@ -407,48 +407,43 @@ def create_lanyard(output_path, face_b64):
     <line x1="-13" y1="-250" x2="-10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
     <line x1="13" y1="-250" x2="10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
     
-    <!-- Text on Strap -->
-    <text transform="translate(0, -220) rotate(90)" x="0" y="-4" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="900" fill="#fff" opacity="0.9" letter-spacing="4">
-      HASSAN ♥ AI ♥ CODE ♥ HASSAN
-    </text>
-    
     <!-- Metal Clip -->
     <rect x="-10" y="20" width="20" height="30" rx="4" fill="#888"/>
     <circle cx="0" cy="60" r="8" fill="none" stroke="#aaa" stroke-width="4"/>
     
     <!-- Card Base -->
-    <rect x="-140" y="70" width="280" height="450" rx="16" fill="#150a21" stroke="#a855f7" stroke-width="2"/>
-    <rect x="-140" y="70" width="280" height="450" rx="16" fill="url(#glass)"/>
+    <rect x="-140" y="70" width="280" height="400" rx="16" fill="#150a21" stroke="#a855f7" stroke-width="2"/>
+    <rect x="-140" y="70" width="280" height="400" rx="16" fill="url(#glass)"/>
     
-    <text x="-120" y="100" font-family="monospace" font-size="10" font-weight="bold" fill="#a855f7" letter-spacing="2">DEVELOPER ID</text>
-    <text x="120" y="100" text-anchor="end" font-family="monospace" font-size="10" font-weight="bold" fill="#ff2d7b" letter-spacing="2">HS-0635</text>
+    <text x="-120" y="95" font-family="monospace" font-size="10" font-weight="bold" fill="#a855f7" letter-spacing="2">DEVELOPER ID</text>
+    <text x="120" y="95" text-anchor="end" font-family="monospace" font-size="10" font-weight="bold" fill="#ff2d7b" letter-spacing="2">HS-0635</text>
     
     <!-- Face Avatar -->
-    <circle cx="0" cy="180" r="74" fill="none" stroke="#ff2d7b" stroke-width="4" filter="url(#glow-badge)"/>
+    <circle cx="0" cy="170" r="74" fill="none" stroke="#ff2d7b" stroke-width="4" filter="url(#glow-badge)"/>
     <clipPath id="avatar-clip-new">
-      <circle cx="0" cy="180" r="70"/>
+      <circle cx="0" cy="170" r="70"/>
     </clipPath>
     <g clip-path="url(#avatar-clip-new)">
-      <rect x="-70" y="110" width="140" height="140" fill="#222"/>
-      <image x="-70" y="110" width="140" height="140" href="data:image/png;base64,{face_b64}" preserveAspectRatio="xMidYMid slice" />
+      <rect x="-70" y="100" width="140" height="140" fill="#222"/>
+      <image x="-70" y="100" width="140" height="140" href="data:image/png;base64,{face_b64}" preserveAspectRatio="xMidYMid slice" />
     </g>
 
     <!-- Text Info -->
-    <text x="0" y="330" text-anchor="middle" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="44" font-weight="normal" fill="#ff2d7b" filter="url(#glow-badge)">
+    <text x="0" y="295" text-anchor="middle" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="44" font-weight="normal" fill="#ff2d7b" filter="url(#glow-badge)">
       Hassan Ali Abrar
     </text>
-    <text x="0" y="330" text-anchor="middle" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="44" font-weight="normal" fill="#fff">
+    <text x="0" y="295" text-anchor="middle" font-family="'Brush Script MT', 'Snell Roundhand', cursive" font-size="44" font-weight="normal" fill="#fff">
       Hassan Ali Abrar
     </text>
 
     <!-- Role -->
-    <text x="0" y="375" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="900" fill="#ff2d7b" letter-spacing="3">AI ENGINEER</text>
+    <text x="0" y="335" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="900" fill="#ff2d7b" letter-spacing="3">AI ENGINEER</text>
     
     <!-- Handle -->
-    <text x="0" y="400" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#aaa">@hassan-635</text>
+    <text x="0" y="360" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#aaa">@hassan-635</text>
     
     <!-- Fake Barcode -->
-    <g transform="translate(-110, 460)" fill="#fff" opacity="0.8">
+    <g transform="translate(-110, 410)" fill="#fff" opacity="0.8">
       <rect x="0" width="4" height="40"/>
       <rect x="8" width="2" height="40"/>
       <rect x="14" width="8" height="40"/>
@@ -467,8 +462,8 @@ def create_lanyard(output_path, face_b64):
     </g>
     
     <!-- Sub Info -->
-    <text x="120" y="475" text-anchor="end" font-family="Consolas, monospace" font-size="8" fill="#aaa">PYTHON • AI/ML</text>
-    <text x="120" y="490" text-anchor="end" font-family="Consolas, monospace" font-size="8" fill="#aaa">NODE.JS • DB</text>
+    <text x="120" y="425" text-anchor="end" font-family="Consolas, monospace" font-size="8" fill="#aaa">PYTHON • AI/ML</text>
+    <text x="120" y="440" text-anchor="end" font-family="Consolas, monospace" font-size="8" fill="#aaa">NODE.JS • DB</text>
 
     
     <!-- Shine Overlay (Clipped to card) -->
