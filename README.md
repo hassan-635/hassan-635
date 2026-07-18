@@ -66,14 +66,12 @@
 
 <br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📈 GitHub Activity Graph</h2>
 
-<!-- Daily Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan-635/hassan-635/output/github-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan-635/hassan-635/output/github-snake.svg?v=1">
-  <img src="https://raw.githubusercontent.com/hassan-635/hassan-635/output/github-snake.svg?v=1" alt="GitHub Contribution Snake" width="100%">
-</picture>
+<!-- Dynamic Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-635&bg_color=0d0117&color=a855f7&line=ff2d7b&point=ffffff&area=true&hide_border=false&radius=16" width="70%">
+</div>
 
 <br><br>
 
