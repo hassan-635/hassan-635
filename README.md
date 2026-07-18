@@ -21,8 +21,6 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
     <td align="center" width="40%" style="border: none; background-color: transparent;">
-      <h2 align="center">🪪 Identity</h2>
-      <br>
       <img src="lanyard.svg?v=1" alt="ID Badge" width="280">
     </td>
     <td align="center" width="60%" style="border: none; background-color: transparent;">

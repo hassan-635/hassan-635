@@ -235,8 +235,11 @@ def create_banner(output_path, banner_b64, is_light=False):
   <!-- Right Side - Character, Scanner, Skills -->
   <!-- Image Hologram Clip -->
   <g clip-path="url(#hologram-clip)">
-    <!-- Embed the character image (Slightly Smaller to match proportions) -->
-    <image x="760" y="40" width="450" height="450" href="data:image/png;base64,{banner_b64}" preserveAspectRatio="xMidYMid meet" />
+    <!-- Embed the character image with 3D float animation -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="4s" repeatCount="indefinite" />
+      <image x="760" y="40" width="450" height="450" href="data:image/png;base64,{banner_b64}" preserveAspectRatio="xMidYMid meet" />
+    </g>
   </g>
   
   <!-- Scan line leading the reveal -->
@@ -300,7 +303,7 @@ def create_banner(output_path, banner_b64, is_light=False):
         f.write(svg)
 
 def create_lanyard(output_path, face_b64):
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="-250 -50 500 600" width="350" height="420">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="-250 -250 500 750" width="350" height="520">
   <defs>
     <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="rgba(255,255,255,0.15)"/>
@@ -339,7 +342,7 @@ def create_lanyard(output_path, face_b64):
     }}
     
     .pendulum {{
-      transform-origin: 0px -50px;
+      transform-origin: 0px -250px;
       animation: dropIn 1s cubic-bezier(0.25, 1, 0.5, 1) forwards, sway 3s ease-in-out 1s infinite alternate;
     }}
     
@@ -360,7 +363,7 @@ def create_lanyard(output_path, face_b64):
   <g class="pendulum">
     
     <!-- Strap -->
-    <path d="M -20 -150 L -15 20 L 15 20 L 20 -150" fill="#ff2d7b" opacity="0.9"/>
+    <path d="M -20 -250 L -15 20 L 15 20 L 20 -250" fill="#ff2d7b" opacity="0.9"/>
     
     <!-- Metal Clip -->
     <rect x="-10" y="20" width="20" height="30" rx="4" fill="#888"/>
