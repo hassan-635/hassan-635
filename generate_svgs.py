@@ -285,6 +285,25 @@ def create_banner(output_path, banner_b64, is_light=False):
         
     svg += f'''
     </g>
+    
+  <!-- Holographic Skill Showcase (Looping) -->
+  <g transform="translate(620, 270)">
+'''
+    top_skills = skills[:5] # Python, AI/ML, Linux, HTML, CSS
+    for i, (skill, color, path) in enumerate(top_skills):
+        svg += f'''
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="{i * 3}s" />
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="0; 1.5; 1.5; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="{i * 3}s" />
+        <circle cx="0" cy="0" r="30" fill="{card_bg}" stroke="{color}" stroke-width="2" filter="url(#glow)"/>
+        <svg x="-15" y="-15" width="30" height="30" viewBox="0 0 24 24" fill="{color}"><path d="{path}"/></svg>
+        <text x="0" y="45" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold" fill="{color}" filter="url(#glow)">{skill}</text>
+      </g>
+    </g>'''
+        
+    svg += f'''
+  </g>
   
   <!-- Continuous Scanner -->
   <rect x="0" y="-10" width="1280" height="4" fill="url(#accent-grad)" filter="url(#glow)" opacity="0.6">
@@ -364,6 +383,14 @@ def create_lanyard(output_path, face_b64):
     
     <!-- Strap -->
     <path d="M -20 -250 L -15 20 L 15 20 L 20 -250" fill="#ff2d7b" opacity="0.9"/>
+    
+    <!-- Text on Strap -->
+    <text transform="translate(-17, -40) rotate(-88)" font-family="Consolas, monospace" font-size="10" font-weight="bold" fill="#fff" opacity="0.8" letter-spacing="2">
+      CODE IS ART
+    </text>
+    <text transform="translate(17, -220) rotate(88)" font-family="Consolas, monospace" font-size="10" font-weight="bold" fill="#fff" opacity="0.8" letter-spacing="2">
+      LOGIC IS POWER
+    </text>
     
     <!-- Metal Clip -->
     <rect x="-10" y="20" width="20" height="30" rx="4" fill="#888"/>

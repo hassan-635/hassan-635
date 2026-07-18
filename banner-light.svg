@@ -316,6 +316,56 @@
         <animate attributeName="opacity" values="0;1" begin="7.0000000000000036s" dur="0.3s" fill="freeze"/>
       </g>
     </g>
+    
+  <!-- Holographic Skill Showcase (Looping) -->
+  <g transform="translate(620, 270)">
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="0s" />
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="0; 1.5; 1.5; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="0s" />
+        <circle cx="0" cy="0" r="30" fill="rgba(100,50,150,0.08)" stroke="#3776AB" stroke-width="2" filter="url(#glow)"/>
+        <svg x="-15" y="-15" width="30" height="30" viewBox="0 0 24 24" fill="#3776AB"><path d="M19.98 10.87c.05-.73-.24-1.89-1.28-2.67-1.3-.98-3.32-1.35-6.05-1.35H8.7c-2.48 0-4.5 1.76-4.5 3.93v3.93c0 2.17 2.02 3.93 4.5 3.93h1.86v-1.96c0-1.63 1.34-2.95 3-2.95h3.94c1.66 0 3-1.32 3-2.95v-2.36h.05c-.01.16-.07.31-.07.47z M15.15 8.12c.5 0 .9.39.9.88s-.4.88-.9.88-.9-.39-.9-.88.4-.88.9-.88z"/></svg>
+        <text x="0" y="45" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold" fill="#3776AB" filter="url(#glow)">Python</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="3s" />
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="0; 1.5; 1.5; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="3s" />
+        <circle cx="0" cy="0" r="30" fill="rgba(100,50,150,0.08)" stroke="#FF6F00" stroke-width="2" filter="url(#glow)"/>
+        <svg x="-15" y="-15" width="30" height="30" viewBox="0 0 24 24" fill="#FF6F00"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        <text x="0" y="45" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold" fill="#FF6F00" filter="url(#glow)">AI/ML</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="6s" />
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="0; 1.5; 1.5; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="6s" />
+        <circle cx="0" cy="0" r="30" fill="rgba(100,50,150,0.08)" stroke="#FCC624" stroke-width="2" filter="url(#glow)"/>
+        <svg x="-15" y="-15" width="30" height="30" viewBox="0 0 24 24" fill="#FCC624"><path d="M12 22s-4-1.5-4-5.5V11C8 8.5 9 5 12 5s4 3.5 4 6v5.5c0 4-4 5.5-4 5.5z"/></svg>
+        <text x="0" y="45" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold" fill="#FCC624" filter="url(#glow)">Linux</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="9s" />
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="0; 1.5; 1.5; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="9s" />
+        <circle cx="0" cy="0" r="30" fill="rgba(100,50,150,0.08)" stroke="#E34F26" stroke-width="2" filter="url(#glow)"/>
+        <svg x="-15" y="-15" width="30" height="30" viewBox="0 0 24 24" fill="#E34F26"><path d="M1.5 1.5h21l-1.9 21-8.6 2.5-8.6-2.5-1.9-21zm10.5 19.5l6.5-1.9 1.3-14.6H4.2l.4 4.5h11l-.3 3.6-4.8 1.4-4.8-1.4-.2-2.7H3.4l.4 5.9 6.7 1.9h.1z"/></svg>
+        <text x="0" y="45" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold" fill="#E34F26" filter="url(#glow)">HTML</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="12s" />
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="0; 1.5; 1.5; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="12s" />
+        <circle cx="0" cy="0" r="30" fill="rgba(100,50,150,0.08)" stroke="#1572B6" stroke-width="2" filter="url(#glow)"/>
+        <svg x="-15" y="-15" width="30" height="30" viewBox="0 0 24 24" fill="#1572B6"><path d="M1.5 1.5h21l-1.9 21-8.6 2.5-8.6-2.5-1.9-21zm10.5 19.5l6.5-1.9 1.3-14.6H4.2l.4 4.5h11l-.3 3.6-4.8 1.4-4.8-1.4-.2-2.7H3.4l.4 5.9 6.7 1.9h.1z"/></svg>
+        <text x="0" y="45" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold" fill="#1572B6" filter="url(#glow)">CSS</text>
+      </g>
+    </g>
+  </g>
   
   <!-- Continuous Scanner -->
   <rect x="0" y="-10" width="1280" height="4" fill="url(#accent-grad)" filter="url(#glow)" opacity="0.6">
