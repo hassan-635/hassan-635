@@ -53,8 +53,11 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=0d0117&fire=ff2d7b&ring=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7&stroke=ff2d7b&border_radius=16" height="195" width="49%">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff&border_color=a855f7&border_radius=16" height="195" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&background=282a36&fire=ff79c6&ring=bd93f9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=bd93f9&stroke=ff79c6&border_radius=16" width="70%">
+  
+  <br><br>
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&bg_color=282a36&title_color=ff79c6&text_color=ffffff&border_color=bd93f9&border_radius=16" width="70%">
 </div>
 
 <br>

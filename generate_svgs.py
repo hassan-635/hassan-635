@@ -2,14 +2,14 @@ import os
 
 def create_banner(output_path, banner_b64, is_light=False):
     # Colors
-    bg = "#f8f4ff" if is_light else "#0d0117"
+    bg = "#f8f4ff" if is_light else "#282a36"
     text = "#1a0a2e" if is_light else "#ffffff"
     text_muted = "#555577" if is_light else "#8888aa"
     card_bg = "rgba(100,50,150,0.08)" if is_light else "rgba(255,255,255,0.05)"
-    code_bg = "#f0ecf7" if is_light else "#1e1e3f"
-    pink = "#ff6baa" if is_light else "#ff2d7b"
-    purple = "#7c3aed" if is_light else "#a855f7"
-    glow = "rgba(124, 58, 237, 0.2)" if is_light else "rgba(255, 45, 123, 0.4)"
+    code_bg = "#f0ecf7" if is_light else "#44475a"
+    pink = "#ff6baa" if is_light else "#ff79c6"
+    purple = "#7c3aed" if is_light else "#bd93f9"
+    glow = "rgba(124, 58, 237, 0.2)" if is_light else "rgba(189, 147, 249, 0.4)"
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 580" width="100%" height="100%">
   <defs>
@@ -334,11 +334,11 @@ def create_lanyard(output_path, face_b64):
     <circle cx="0" cy="60" r="8" fill="none" stroke="#aaa" stroke-width="4"/>
     
     <!-- Card Base -->
-    <rect x="-110" y="70" width="220" height="340" rx="16" fill="#150a21" stroke="#a855f7" stroke-width="2"/>
+    <rect x="-110" y="70" width="220" height="340" rx="16" fill="#282a36" stroke="#bd93f9" stroke-width="2"/>
     <rect x="-110" y="70" width="220" height="340" rx="16" fill="url(#glass)"/>
     
     <!-- Face Avatar -->
-    <circle cx="0" cy="140" r="64" fill="none" stroke="#ff2d7b" stroke-width="4" filter="url(#glow-badge)"/>
+    <circle cx="0" cy="140" r="64" fill="none" stroke="#ff79c6" stroke-width="4" filter="url(#glow-badge)"/>
     <g clip-path="url(#avatar-clip)" transform="translate(0, 20)">
       <rect x="-60" y="60" width="120" height="120" fill="#222"/>
       <image x="-60" y="60" width="120" height="120" href="data:image/png;base64,{face_b64}" preserveAspectRatio="xMidYMid slice" />
@@ -346,7 +346,7 @@ def create_lanyard(output_path, face_b64):
 
     <!-- Text Info -->
     <text x="0" y="250" text-anchor="middle" class="font-sans" font-size="24" font-weight="bold" fill="#fff">Hassan Ali Abrar</text>
-    <text x="0" y="280" text-anchor="middle" class="font-sans" font-size="16" fill="#a855f7">AI Engineer</text>
+    <text x="0" y="280" text-anchor="middle" class="font-sans" font-size="16" fill="#bd93f9">AI Engineer</text>
     <text x="0" y="310" text-anchor="middle" class="font-mono" font-size="14" fill="#aaa">@hassan-635</text>
     
     <!-- Fake Barcode -->
