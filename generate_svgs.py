@@ -177,7 +177,7 @@ def create_banner(output_path, banner_b64, is_light=False):
 
     <!-- Quote Box -->
     <g transform="translate(0, 200)">
-      <rect x="0" y="0" width="550" height="50" rx="8" fill="{card_bg}" stroke="{purple}" stroke-width="1" opacity="0.5"/>
+      <rect x="0" y="0" width="450" height="50" rx="8" fill="{card_bg}" stroke="{purple}" stroke-width="1" opacity="0.5"/>
       <text x="20" y="32" class="text-body" font-size="20" font-style="italic" fill="{text_muted}">
         "Keep learning. Keep building. Keep growing."
       </text>
@@ -356,8 +356,8 @@ def create_lanyard(output_path, face_b64):
     }}
     
     @keyframes sway {{
-      0% {{ transform: rotate(15deg); }}
-      100% {{ transform: rotate(-15deg); }}
+      0% {{ transform: rotate(5deg); }}
+      100% {{ transform: rotate(-5deg); }}
     }}
     
     .pendulum {{
@@ -378,6 +378,25 @@ def create_lanyard(output_path, face_b64):
     .font-mono {{ font-family: "Consolas", monospace; }}
   </style>
 
+  <!-- Background Floating Elements -->
+  <g filter="url(#glow-badge)">
+    <!-- Floating Heart -->
+    <g fill="#ff2d7b">
+      <animateTransform attributeName="transform" type="translate" values="-180,50; -180,30; -180,50" dur="4s" repeatCount="indefinite" />
+      <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="scale(2.5)">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <!-- Shining Code Brackets -->
+    <g fill="#a855f7">
+      <animateTransform attributeName="transform" type="translate" values="130,100; 130,80; 130,100" dur="5s" repeatCount="indefinite" />
+      <text font-family="monospace" font-weight="bold" font-size="54">
+        &lt;/&gt;
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.5s" repeatCount="indefinite" />
+      </text>
+    </g>
+  </g>
+
   <!-- Group acting as Pendulum -->
   <g class="pendulum">
     
@@ -388,10 +407,7 @@ def create_lanyard(output_path, face_b64):
     <line x1="-13" y1="-250" x2="-10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
     <line x1="13" y1="-250" x2="10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
     
-    <!-- Text on Strap -->
-    <text transform="translate(0, -220) rotate(90)" x="0" y="-4" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="900" fill="#fff" opacity="0.9" letter-spacing="4">
-      HASSAN ♥ AI ♥ CODE ♥ HASSAN
-    </text>
+    <!-- Text on Strap (Removed as requested) -->
     
     <!-- Metal Clip -->
     <rect x="-10" y="20" width="20" height="30" rx="4" fill="#888"/>

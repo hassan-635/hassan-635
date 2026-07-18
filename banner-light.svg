@@ -164,7 +164,7 @@
 
     <!-- Quote Box -->
     <g transform="translate(0, 200)">
-      <rect x="0" y="0" width="550" height="50" rx="8" fill="rgba(100,50,150,0.08)" stroke="#7c3aed" stroke-width="1" opacity="0.5"/>
+      <rect x="0" y="0" width="450" height="50" rx="8" fill="rgba(100,50,150,0.08)" stroke="#7c3aed" stroke-width="1" opacity="0.5"/>
       <text x="20" y="32" class="text-body" font-size="20" font-style="italic" fill="#555577">
         "Keep learning. Keep building. Keep growing."
       </text>
