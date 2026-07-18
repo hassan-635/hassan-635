@@ -287,7 +287,7 @@ def create_banner(output_path, banner_b64, is_light=False):
     </g>
     
   <!-- Holographic Skill Showcase (Looping) -->
-  <g transform="translate(620, 270)">
+  <g transform="translate(1120, 160)">
 '''
     top_skills = skills[:5] # Python, AI/ML, Linux, HTML, CSS
     for i, (skill, color, path) in enumerate(top_skills):
@@ -384,12 +384,13 @@ def create_lanyard(output_path, face_b64):
     <!-- Strap -->
     <path d="M -20 -250 L -15 20 L 15 20 L 20 -250" fill="#ff2d7b" opacity="0.9"/>
     
+    <!-- Stitched Borders -->
+    <line x1="-13" y1="-250" x2="-10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
+    <line x1="13" y1="-250" x2="10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
+    
     <!-- Text on Strap -->
-    <text transform="translate(-17, -40) rotate(-88)" font-family="Consolas, monospace" font-size="10" font-weight="bold" fill="#fff" opacity="0.8" letter-spacing="2">
-      CODE IS ART
-    </text>
-    <text transform="translate(17, -220) rotate(88)" font-family="Consolas, monospace" font-size="10" font-weight="bold" fill="#fff" opacity="0.8" letter-spacing="2">
-      LOGIC IS POWER
+    <text transform="translate(0, -220) rotate(90)" x="0" y="-4" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="900" fill="#fff" opacity="0.9" letter-spacing="4">
+      HASSAN ♥ AI ♥ CODE ♥ HASSAN
     </text>
     
     <!-- Metal Clip -->

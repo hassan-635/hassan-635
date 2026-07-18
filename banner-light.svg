@@ -318,7 +318,7 @@
     </g>
     
   <!-- Holographic Skill Showcase (Looping) -->
-  <g transform="translate(620, 270)">
+  <g transform="translate(1120, 160)">
 
     <g opacity="0">
       <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.15; 0.2; 1" dur="15s" repeatCount="indefinite" begin="0s" />
