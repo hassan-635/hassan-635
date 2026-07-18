@@ -48,15 +48,24 @@
 
 <br><br>
 
-<!-- Dynamic GitHub Stats (Not hardcoded) -->
-<img src="https://github-stats-extended.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&hide_border=true&background=0d0117&fire=ff2d7b&ring=ff2d7b" width="49%">
+<br>
 
-<br><br>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b" width="49%">
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=hassan-635&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b&icon_color=a855f7&text_color=ffffff" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-635&theme=dracula&hide_border=true&background=0d0117&fire=ff2d7b&ring=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7" width="49%">
+</div>
 
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan-635&layout=compact&theme=dracula&hide_border=true&bg_color=0d0117&title_color=ff2d7b&text_color=ffffff" width="49%">
+</div>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <!-- Daily Contribution Snake Animation -->
 <picture>
@@ -68,6 +77,6 @@
 <br><br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=hassan-635&color=ff2d7b" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=hassan-635&color=ff2d7b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
