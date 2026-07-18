@@ -322,7 +322,7 @@ def create_banner(output_path, banner_b64, is_light=False):
         f.write(svg)
 
 def create_lanyard(output_path, face_b64):
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="-250 -250 500 750" width="350" height="520">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="-250 -100 500 600" width="350" height="520">
   <defs>
     <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="rgba(255,255,255,0.15)"/>
@@ -361,7 +361,7 @@ def create_lanyard(output_path, face_b64):
     }}
     
     .pendulum {{
-      transform-origin: 0px -250px;
+      transform-origin: 0px -100px;
       animation: dropIn 1s cubic-bezier(0.25, 1, 0.5, 1) forwards, sway 3s ease-in-out 1s infinite alternate;
     }}
     
@@ -401,11 +401,11 @@ def create_lanyard(output_path, face_b64):
   <g class="pendulum">
     
     <!-- Strap -->
-    <path d="M -20 -250 L -15 20 L 15 20 L 20 -250" fill="#ff2d7b" opacity="0.9"/>
+    <path d="M -20 -100 L -15 20 L 15 20 L 20 -100" fill="#ff2d7b" opacity="0.9"/>
     
     <!-- Stitched Borders -->
-    <line x1="-13" y1="-250" x2="-10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
-    <line x1="13" y1="-250" x2="10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
+    <line x1="-13" y1="-100" x2="-10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
+    <line x1="13" y1="-100" x2="10" y2="20" stroke="#fff" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
     
     <!-- Metal Clip -->
     <rect x="-10" y="20" width="20" height="30" rx="4" fill="#888"/>
